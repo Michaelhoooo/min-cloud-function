@@ -10,3 +10,4 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
+![](https://github.com/Michaelhoooo/min-cloud-function/blob/master/miniprogram/images/min.jpg)
